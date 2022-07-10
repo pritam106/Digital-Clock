@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    background: url(https://images.unsplash.com/photo-1505205296326-2178af1b47bf?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80);
+    }
+.Clock{
+    color:rgb(6, 210, 236);
+    font-size: 65px;
+    font-family:'lato' sans-serif;
+    font-weight: bolder;
+    letter-spacing: 7px;
+    
+    position: absolute;
+    left:55%;
+    top:30%; 
+    transform: translatex(-50%) translatey(-50%);
+}
